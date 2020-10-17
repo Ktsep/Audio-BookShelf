@@ -1,0 +1,150 @@
+﻿@model AudioBook.Core.ViewModels.AudioBookViewModel
+<html>
+<head>
+    <link href="~/BookPlayer/Player.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="bg">
+
+    </div>
+
+    <div id="">
+
+        <div id="">
+            <div id="songTitle"><b>Demo</b></div>
+            <div id="buttons">
+                <button id="pre" onclick="pre()"><img src="~/BookPlayer/Pre.png" height="90%" width="90%" /></button>
+                <button id="play" onclick="playOrPauseSong()"><img src="~/BookPlayer/Play.png" /></button>
+                <button id="next" onclick="next()"><img src="~/BookPlayer/Next.png" height="90%" width="90%" /></button>
+            </div>
+
+            <div id="seek-bar">
+                <div id="fill"></div>
+                <div id="handle"></div>
+            </div>
+
+            <div id="currentTime">00:00 / 00:00</div>
+            <div id="volume">
+                <button id="decrease" onclick="decreaseVolume()">-</button>
+                <div id="volumeIcon"><img src="~/BookPlayer/Speaker.png" /></div>
+                <button id="increase" onclick="increaseVolume()">+</button>
+            </div>
+
+
+        </div>
+    </div>
+</body>
+
+<script type="text/javascript">
+
+    var songs = ["@Model.Url[0]","@Model.Url[1]","@Model.Url[2]","@Model.Url[3]","@Model.Url[4]"];
+    var titles = ["@Model.Name[0]","@Model.Name[1]","@Model.Name[2]","@Model.Name[3]","@Model.Name[4]"];
+    var poster = [];
+
+    var songTitle = document.getElementById("songTitle");
+    var fillBar = document.getElementById("fill");
+
+    var currentTime = document.getElementById("currentTime");
+
+    var song = new Audio();
+    var currentSong = 0;    
+    playSong();   
+
+    function playSong() {
+
+        song.src = songs[currentSong];  
+
+        songTitle.textContent = titles[currentSong]; 
+
+        song.play();   
+    }
+
+    function playOrPauseSong(){
+
+        if(song.paused){
+            song.play();
+            $("#play img").attr("src","/BookPlayer/Pause.png");
+        }
+        else{
+            song.pause();
+            $("#play img").attr("src","/BookPlayer/Play.png");
+        }
+    }
+
+    song.addEventListener('timeupdate',function(){
+
+        var position = song.currentTime / song.duration;
+
+        fillBar.style.width = position * 100 + '%';
+
+        convertTime(Math.round(song.currentTime));
+
+        if (song.ended) {
+            next();
+        }
+    });
+
+    function convertTime(seconds) {
+        var min = Math.floor(seconds / 60);
+        var sec = seconds % 60;
+
+        min = (min < 10) ? "0" + min : min;
+        sec = (sec < 10) ? "0" + sec : sec;
+
+
+
+        currentTime.textContent = min + ":" + sec;
+
+        totalTime(Math.round(song.duration));
+    }
+
+    function totalTime(seconds) {
+        var min = Math.floor(seconds / 60);
+        var sec = seconds % 60;
+
+        min = (min < 10) ? "0" + min : min;
+        sec = (sec < 10) ? "0" + sec : sec;
+        currentTime.textContent += "/" + min + ":" + sec;
+    }
+
+
+    function next(){
+        currentSong++;
+        if(currentSong > @Model.Url.Count - 1){
+            currentSong = 0;
+        }
+        playSong();
+        $("#play img").attr("src","/BookPlayer/Pause.png");
+        $("#image img").attr("src",poster[currentSong]);
+        $("#bg img").attr("src",poster[currentSong]);
+    }
+
+    function pre(){
+
+        currentSong--;
+        if(currentSong < 0){
+            currentSong = @Model.Url.Count - 1;
+        }
+        playSong();
+        $("#play img").attr("src","/BookPlayer/Pause.png");
+        $("#image img").attr("src",poster[currentSong]);
+        $("#bg img").attr("src",poster[currentSong]);
+    }
+
+    function decreaseVolume() {
+        song.volume -= 0.20;
+    }
+
+    function increaseVolume() {
+        song.volume += 0.20;
+    }
+
+</script>
+
+</html>
+<script src="~/Scripts/jquery-3.5.1.min.js"></script>
+<script>
+    $("#hideNavBar").hide();
+
+</script>
+

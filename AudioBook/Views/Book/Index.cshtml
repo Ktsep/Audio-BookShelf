@@ -1,0 +1,94 @@
+﻿@model IPagedList<AudioBook.Core.Domain.Book>
+
+<link href="~/Content/PagedList.css" rel="stylesheet" />
+<link href="~/Content/img/smoothproducts.css" rel="stylesheet" />
+<link href="~/Content/img/style.css" rel="stylesheet" />
+<link href="~/Content/tooplate-style.css" rel="stylesheet" />
+<link href="~/Content/fontawesome.min.css" rel="stylesheet" />
+<link href="~/Content/fontawesome-all.css" rel="stylesheet" />
+
+
+@{ ViewBag.Title = "Index";}
+@using PagedList.Mvc
+@using PagedList
+
+
+<div>
+    <hr />
+    @using (Html.BeginForm("Index", "Book", FormMethod.Get))
+    {
+
+        @Html.TextBox("searchName", "Look for a great book")
+        <input class="btn btn-secondary" type="submit" value="Search" />
+    }
+
+
+    @foreach (var book in Model)
+    {
+        <div class="container py-5">
+            <div class="row text-center text-white mb-3">
+                <div class="col-lg-8 mx-auto">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 mx-auto">
+                    <ul class="list-group shadow">
+                        <li class="list-group-item">
+                            <div class="media align-items-lg-center flex-column flex-lg-row p-3">
+                            <div class="media-body order-2 order-lg-1">
+                                <button Class="btn btn-light">
+                                    <h5 class="mt-0 font-weight-bold mb-2">@Html.ActionLink(book.Title, "Details", new { id = book.Id })</h5>
+                                </button>
+                                <br/>
+                                    <p class="font-italic text-muted mb-0 small"><b>Language :</b>@Html.DisplayFor(model => book.Language)</p>
+                                    <p class="font-italic text-muted mb-0 small"><b>Year :</b>@Html.DisplayFor(model => book.CopyrightYear)</p>
+                                    <p class="font-italic text-muted mb-0 small"><b>Chapters :</b>@Html.DisplayFor(model => book.NumSections)</p>
+                                    <div class="d-flex align-items-center justify-content-between mt-1">
+                                        <h6 class="font-weight-bold my-2"></h6>
+                                        <ul class="list-inline small">
+                                            <h3>Rating</h3>
+                                            <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                                            <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                                            <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                                            <li class="list-inline-item m-0"><i class="fa fa-star text-success"></i></li>
+                                            <li class="list-inline-item m-0"><i class="fa fa-star-o text-gray"></i></li>
+                                        </ul>
+                                    </div>
+                                </div><img src="@book.Photo" alt="Generic placeholder image" width="550" class="ml-lg-5 order-1 order-lg-2">
+           
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    }
+
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+</div>
+<button class="btn btn-light">
+    @Html.ActionLink("Return Home", "Index")
+</button>
+
+
+
+<script src="~/Scripts/popper.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+<script src="~/Scripts/tempjs/jquery-3.3.1.min.js"></script>
+<script src="~/Scripts/tempjs/owl.carousel.min.js"></script>
+<script src="~/Scripts/tempjs/smoothproducts.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

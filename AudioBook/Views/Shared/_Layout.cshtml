@@ -1,0 +1,76 @@
+﻿@using Microsoft.AspNet.Identity
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@Page.Title</title>
+    @RenderSection("head", required: false)
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Audio BookShelf - Your Online Bookstore</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400">  
+    <link rel="stylesheet" href=@Url.Content("~/Content//Content/font-awesome.min.css")>               
+    <link rel="stylesheet" href=@Url.Content("~/Content/bootstrap.min.css")>                                      
+    <link rel="stylesheet" href=@Url.Content("~/Content/tooplate-style.css")>
+</head>
+<body>
+
+    <div class="container">
+
+        <header class="tm-site-header">
+
+            <h1 class="tm-site-name">Audio BookShelf</h1>
+
+            <p class="tm-site-description">Your Online Bookstore</p>
+            @Html.AntiForgeryToken()
+
+            <nav class="navbar navbar-expand-md tm-main-nav-container" id="hideNavBar">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#tmMainNav" aria-controls="tmMainNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fa fa-bars"></i>
+                </button>
+
+                <div class="collapse navbar-collapse tm-main-nav" id="tmMainNav">
+                    <ul class="nav nav-fill tm-main-nav-ul">
+                        <li class="nav-item">@Html.ActionLink("Home", "Index", "Home", null, new { @class = "nav-link" })</li>
+                        <li class="nav-item">@Html.ActionLink("Browse Books", "Index", "Book", null, new { @class = "nav-link" })</li>
+                        <li class="nav-item">@Html.ActionLink("Our Team", "Contact", "Home", null, new { @class = "nav-link" })</li>
+                        @if (Request.IsAuthenticated)
+                        {
+                            using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar" }))
+                            {
+                                @Html.AntiForgeryToken()
+                                @Html.ActionLink("Hello " + User.Identity.GetUserName() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage", @class = "nav-link" })
+                                <a class="nav-link" href="javascript:document.getElementById('logoutForm').submit()">Log off</a>
+                            }
+                        }
+                        else
+                        {
+                            @Html.ActionLink("Register", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink", @class = "nav-link" })
+                            @Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink", @class = "nav-link" })
+                        }
+                    </ul>
+
+                </div>
+            </nav>
+
+        </header>
+
+
+        <div>
+            @RenderBody()
+        </div>
+
+
+    </div>
+
+    <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

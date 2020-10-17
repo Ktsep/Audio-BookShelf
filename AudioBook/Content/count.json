@@ -1,0 +1,3894 @@
+﻿{
+  "rss": {
+    "channel": {
+      "title": "Count of Monte Cristo, The by DUMAS, Alexandre", //poulo
+      "link": [
+        "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+        {
+          "_rel": "self",
+          "_href": "https://librivox.org/rss/47",
+          "__prefix": "atom"
+        }
+      ],
+      "description": "The Count of Monte Cristo (French: Le Comte de Monte-Cristo) is an adventure novel by Alexandre Dumas, père. It is often considered, along with The Three Musketeers, as Dumas's most popular work. The writing of the work was completed in 1844. Like many of his novels, it is expanded from the plot outlines suggested by his collaborating ghostwriter Auguste Maquet.The story takes place in France, Italy, islands in the Mediterranean and the Levant during the historical events of 1815–1838 (from just before the Hundred Days through the reign of Louis-Philippe of France). The historical setting is a fundamental element of the book. It is primarily concerned with themes of justice, vengeance, mercy, and forgiveness, and is told in the style of an adventure story. (Summary from Wikipedia)\r\nThis book contains alternate versions of a number of chapters – indicated by an alt after the file number. The Zip files contain both versions of these chapters.There are 2 versions of the M4Bs made , one containing the original files for these chapters (4 parts), the other containing the alternate files for the chapters (5 parts).",
+      "type": {
+        "__prefix": "itunes",
+        "__text": "serial"
+      },
+      "author": {
+        "__prefix": "itunes",
+        "__text": "LibriVox"
+      },
+      "summary": {
+        "__prefix": "itunes",
+        "__cdata": "The Count of Monte Cristo (French: Le Comte de Monte-Cristo) is an adventure novel by Alexandre Dumas, père. It is often considered, along with The Three Musketeers, as Dumas's most popular work. The writing of the work was completed in 1844. Like many of his novels, it is expanded from the plot outlines suggested by his collaborating ghostwriter Auguste Maquet.The story takes place in France, Italy, islands in the Mediterranean and the Levant during the historical events of 1815–1838 (from just before the Hundred Days through the reign of Louis-Philippe of France). The historical setting is a fundamental element of the book. It is primarily concerned with themes of justice, vengeance, mercy, and forgiveness, and is told in the style of an adventure story. (Summary from Wikipedia)\r\nThis book contains alternate versions of a number of chapters – indicated by an alt after the file number. The Zip files contain both versions of these chapters.There are 2 versions of the M4Bs made , one containing the original files for these chapters (4 parts), the other containing the alternate files for the chapters (5 parts)."
+      },
+      "owner": {
+        "name": {
+          "__prefix": "itunes",
+          "__text": "LibriVox"
+        },
+        "email": {
+          "__prefix": "itunes",
+          "__text": "info@librivox.org"
+        },
+        "__prefix": "itunes"
+      },
+      "category": {
+        "category": {
+          "_text": "Literature",
+          "__prefix": "itunes"
+        },
+        "_text": "Arts",
+        "__prefix": "itunes"
+      },
+      "item": [
+        {
+          "title": "Marseilles–The Arrival ",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "1"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_001_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:19:39"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_001_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Father and Son",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "2"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_002_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:19:17"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_002_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Catalans",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "3"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_003_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:31:38"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_003_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Conspiracy",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "4"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_004_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:18:52"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_004_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Marriage-Feast",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "5"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_005_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:33:33"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_005_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Deputy Procureur du Roi",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "6"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_006_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:26:03"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_006_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Examination",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "7"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_007_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:21:24"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_007_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Chateau D’If",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "8"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_008_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:21:14"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_008_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Evening of the Betrothal",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "9"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_009_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:10:58"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_009_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The King’s Closet at the Tuileries",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "10"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_010_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:18:03"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_010_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Corsican Ogre",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "11"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_011_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:20:51"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_011_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Father and Son",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "12"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_012_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:16:59"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_012_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Hundred Days",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "13"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_013_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:16:45"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_013_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Two Prisoners",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "14"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_014_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:22:25"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_014_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Number 34 and Number 27",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "15"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_015_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:33:03"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_015_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "A Learned Italian",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "16"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_016_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:28:08"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_016_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Abbe’s Chamb",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "17"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_017_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:50:33"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_017_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Treasure",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "18"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_018_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:29:05"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_018_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Third Attack",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "19"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_019_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:23:03"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_019_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Cemetary of Chateau D’If ",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "20"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_020_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:12:42"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_020_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Island of Tiboulen ",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "21"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_021_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:23:36"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_021_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Smugglers",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "22"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_022_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:18:24"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_022_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Island of Monte Cristo",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "23"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_023_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:19:36"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_023_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Secret Cave",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "24"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_024_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:17:33"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_024_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Unknown",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "25"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_025_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:20:56"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_025_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Unknown, alternate version",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "26"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_025alt_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:18:32"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_025alt_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Pont du Gard Inn",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "27"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_026_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:38:16"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_026_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Pont du Gard Inn, alternate version",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "28"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_026alt_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:31:28"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_026alt_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Story",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "29"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_027_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:28:31"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_027_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Prison Register",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "30"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_028_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:15:33"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_028_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The House of Morrel & Son",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "31"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_029_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:29:27"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_029_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Fifth of September",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "32"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_030_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:36:29"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_030_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Italy: Sinbad the Sailor",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "33"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_031_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:57:21"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_031_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Italy: Sinbad the Sailor, alternate version",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "34"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_031alt_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:49:25"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_031alt_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Waking",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "35"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_032_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:14:44"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_032_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Waking, alternate version",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "36"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_032alt_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:12:48"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_032alt_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Roman Bandits",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "37"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_033_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "01:09:21"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_033_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Roman Bandits, alternate version",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "38"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_033alt_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "01:03:54"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_033alt_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Colosseum part 1",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "39"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_034a_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:35:21"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_034a_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Colosseum part 2",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "40"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_034b_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:34:56"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_034b_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "La Mazzolata",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "41"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_035_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:30:42"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_035_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Carnival at Rom",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "42"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_036_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:38:57"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_036_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Catacombs of Saint Sebastian",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "43"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_037_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:35:09"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_037_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Compact",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "44"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_038_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:19:18"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_038_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Guest",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "45"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_039_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:17:31"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_039_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Breakfast",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "46"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_040_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:48:15"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_040_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Presentation",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "47"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_041_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:28:05"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_041_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Monsieur Bertuccio",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "48"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_042_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:09:16"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_042_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The House at Auteuil",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "49"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_043_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:16:11"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_043_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The House at Auteuil, altenate version",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "50"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_043alt_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:19:21"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_043alt_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Vendetta",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "51"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_044_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:54:11"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_044_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Vendetta , alternate version",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "52"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_044alt_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:54:28"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_044alt_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Rain of Blood",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "53"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_045_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:34:40"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_045_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Rain of Blood, alternate version",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "54"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_045alt_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:35:21"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_045alt_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Unlimited Credit",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "55"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_046_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:32:39"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_046_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Dappled Greys",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "56"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_047_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:32:22"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_047_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Ideology",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "57"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_048_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:30:23"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_048_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Haidee",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "58"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_049_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:13:54"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_049_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Morrel Family",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "59"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_050_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:18:37"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_050_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Pyramus and Thisbe",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "60"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_051_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:28:37"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_051_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Toxicology",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "61"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_052_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:36:29"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_052_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": " Robert le Diable",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "62"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_053_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:36:04"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_053_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "A Flurry in Stocks",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "63"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_054_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:23:11"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_054_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Major Cavalcanti",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "64"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_055_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:21:09"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_055_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Andrea Cavalcanti",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "65"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_056_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:24:46"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_056_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "In the Lucerne Patch",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "66"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_057_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:26:47"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_057_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "M. Noirtier de Villefort",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "67"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_058_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:27:29"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_058_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Will",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "68"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_059_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:26:49"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_059_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Telegraph",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "69"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_060_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:29:02"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_060_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "How a Gardener…",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "70"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_061_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:21:33"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_061_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Ghosts",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "71"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_062_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:21:43"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_062_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Dinner",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "72"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_063_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:21:51"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_063_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Beggar",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "73"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_064_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:23:43"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_064_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "A Conjugal Scene",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "74"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_065_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:23:31"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_065_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Matrimonial Projects",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "75"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_066_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:23:33"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_066_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "At the Office of the King’s Attorney",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "76"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_067_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:25:04"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_067_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "A Summer Ball",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "77"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_068_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:17:07"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_068_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Inquiry",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "78"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_069_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:22:28"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_069_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Ball ",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "79"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_070_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:21:34"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_070_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Bread and Salt",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "80"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_071_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:08:48"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_071_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Madame de Saint-Meran",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "81"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_072_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:29:30"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_072_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Promise, part 1",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "82"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_073a_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:28:11"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_073a_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Promise, part 2",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "83"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_073b_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:24:50"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_073b_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Villefort Family Vault",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "84"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_074_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:23:38"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_074_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "A Signed Statement",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "85"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_075_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:07:50"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_075_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Progress of Cavalcanti the Younger",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "86"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_076_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:26:20"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_076_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Haidee",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "87"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_077_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:56:45"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_077_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "We Hear from Yanina",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "88"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_078_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:39:02"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_078_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": " The Lemonade",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "89"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_079_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:25:35"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_079_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Accusation",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "90"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_080_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:12:23"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_080_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Room of the Retired Baker",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "91"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_081_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:32:01"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_081_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Burglary",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "92"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_082_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:26:42"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_082_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Hand of God",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "93"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_083_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:13:15"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_083_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Beauchamp",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "94"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_084_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:13:47"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_084_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Journey",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "95"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_085_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:19:54"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_085_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Trial",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "96"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_086_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:27:28"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_086_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Challenge",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "97"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_087_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:13:37"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_087_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Insult",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "98"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_088_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:19:41"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_088_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "A Nocturnal Visit",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "99"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_089_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:23:48"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_089_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Meeting",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "100"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_090_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:37:08"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_090_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Mother and Son",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "101"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_091_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:20:34"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_091_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Suicide",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "102"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_092_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:16:58"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_092_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": " Valentine",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "103"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_093_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:14:44"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_093_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Maximilian’s Avowal",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "104"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_094_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:29:05"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_094_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Maximilian’s Avowal, alternate version",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "105"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_094alt_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:28:22"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_094alt_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": " Father and Daughter",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "106"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_095_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:24:40"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_095_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Contract",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "107"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_096_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:20:50"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_096_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Departure for Belgium",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "108"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_097_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:12:16"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_097_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Bell and Bottle Tavern",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "109"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_098_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:24:46"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_098_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Law",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "110"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_099_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:22:06"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_099_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Apparition",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "111"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_100_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:16:01"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_100_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Locusta",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "112"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_101_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:13:19"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_101_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Valentine",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "113"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_102_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:11:22"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_102_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Maximilian",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "114"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_103_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:16:05"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_103_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Danglars Signature",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "115"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_104_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:22:32"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_104_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Cemetery of Pere-la-Chaise",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "116"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_105_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:30:26"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_105_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Dividing the Proceeds",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "117"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_106_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:33:54"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_106_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Lions’ Den",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "118"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_107_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:14:38"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_107_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Judge",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "119"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_108_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:24:03"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_108_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Assizes",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "120"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_109_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:13:04"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_109_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Indictment",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "121"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_110_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:14:23"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_110_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": " Expiation",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "122"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_111_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:23:25"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_111_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Departure",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "123"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_112_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:38:55"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_112_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Past ",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "124"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_113_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:31:11"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_113_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "Peppino",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "125"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_114_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:28:38"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_114_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": " Luigi Vampa’s Bill of Fare",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "126"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_115_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": "00:14:04"
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_115_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Pardon",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "127"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_116_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": ""
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_116_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        },
+        {
+          "title": "The Fifth of October",
+          "episode": {
+            "__prefix": "itunes",
+            "__cdata": "128"
+          },
+          "link": "https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/",
+          "enclosure": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_117_dumas_64kb.mp3",
+            "_length": "0",
+            "_type": "audio/mpeg"
+          },
+          "explicit": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "block": {
+            "__prefix": "itunes",
+            "__text": "No"
+          },
+          "duration": {
+            "__prefix": "itunes",
+            "__cdata": ""
+          },
+          "content": {
+            "_url": "http://www.archive.org/download/count_monte_cristo_0711_librivox/count_of_monte_cristo_117_dumas_64kb.mp3",
+            "_type": "audio/mpeg",
+            "__prefix": "media"
+          }
+        }
+      ]
+    },
+    "_xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+    "_xmlns:media": "http://search.yahoo.com/mrss/",
+    "_xmlns:creativeCommons": "http://backend.userland.com/creativeCommonsRssModule",
+    "_xmlns:atom": "http://www.w3.org/2005/Atom",
+    "_version": "2.0"
+  }
+}

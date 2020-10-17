@@ -1,0 +1,38 @@
+﻿@model AudioBook.Core.Domain.Book
+@{
+    ViewBag.Title = "Details";
+}
+<link href="~/Content/img/smoothproducts.css" rel="stylesheet" />
+<link href="~/Content/img/style.css" rel="stylesheet" />
+<link href="~/Content/tooplate-style.css" rel="stylesheet" />
+<link href="~/Content/fontawesome.min.css" rel="stylesheet" />
+<link href="~/Content/fontawesome-all.css" rel="stylesheet" />
+
+<div class="product-detail">
+    <div class="container">
+
+        <div class="tm-gallery-item-overlay">
+            <a />
+        </div>
+        <img src=@Model.Photo alt="Image" class="">
+
+        <div class="product-detail-right">
+            <h5><b>Price :<i class="fa fa-euro"></i> @Model.Price €</b></h5>
+            <h5><b>Year : @Model.CopyrightYear</b></h5>
+            <h5><b>Chapters : @Model.NumSections</b></h5>
+            <h5><b>Total time : @Model.TotalTime</b></h5>
+            <a onclick="window.open('@Url.Content("~/Book/Player/" + @Model.Id)','Player', 'maxheight=300', 'maxwidth=300','scrollbars=no','resizable=no')"  class="addtocart btn"><i class="fa fa-play">Play</i></a>
+            <a href="#" class="writereview"><i class="fa fa-pen">Write a review</i></a>
+            <a href="#" class="buynow"><i class="fa fa-shopping-basket">Buy Now</i></a>
+
+        </div>
+        <h3 class="product-detail-feature">@Model.Description</h3>
+    </div>
+
+
+</div>
+
+
+<script src="~/Scripts/tempjs/jquery-3.3.1.min.js"></script>
+<script src="~/Scripts/tempjs/owl.carousel.min.js"></script>
+<script src="~/Scripts/tempjs/smoothproducts.min.js"></script>
